@@ -5,8 +5,8 @@ import javax.swing.*;
 public class Main extends Thread
 {
 
-	static int SIZE_X = 2560;	
-	static int SIZE_Y = 1440;	
+	static int SIZE_X = 1920;
+	static int SIZE_Y = 1080;	
 
 	Flight List[] = new Flight [25];	//Max number of Flights
 	User users[] = new User [15];		//Max numer of Users
